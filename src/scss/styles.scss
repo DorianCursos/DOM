@@ -2,3 +2,8 @@
 @use 'base/initial-reset.scss';
 @use 'config/variables.scss';
 @use 'blocks/body.scss';
+@use 'blocks/toggle.scss';
+
+.color {
+  accent-color: red;
+}
